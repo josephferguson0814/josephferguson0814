@@ -1,14 +1,13 @@
-# Hi, I'm Joey 👋  
+# Hi, I'm Joey 👋
 
-I'm an aspiring Data Analyst based in the US, passionate about turning data into actionable insights.  
+I’m an aspiring Data Analyst based in Ohio, excited by the challenge of uncovering patterns and stories hidden in data. I enjoy working with Python, SQL, Excel, and data visualization tools to explore, clean, and analyze datasets. I focus on solving real-world problems and presenting insights in a clear, understandable way.
 
-I’m hardworking, driven, and a lifelong learner. Most of my technical skills have been self-taught through YouTube, online courses, and hands-on projects, which has taught me how to learn quickly and apply new tools effectively.  
+## Technical Skills
+- **Python** – proficient but still learning
+- **SQL** – learning
+- **Excel** – learning
 
-**Technical Skills:**  
-- Python (proficient)  
-- Learning SQL, pandas, matplotlib, NumPy, Tableau, and Excel  
-
-**Fun Facts:**  
+## Fun Facts
 - I love reading sci-fi and fantasy books  
 - I have a cat named Elvira  
-- I performed in the St. Patrick's Parade in Dublin, Ireland with the Pride of Dayton Marching Band  
+- I performed in the St. Patrick's Parade in Dublin, Ireland with the Pride of Dayton Marching Band
