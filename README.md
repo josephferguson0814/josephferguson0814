@@ -16,6 +16,10 @@ Java is coming up in my studies.
 - **Raspberry Pi Projects** – Experiments with using real systems
 - **Personal Projects** – Experiments writing my own code to get better with data analysis and computational science
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/87f20229-2ee4-4d74-8489-4b354d9cad8c/thumbnail" >
+</p>
+
 ## Goals
 - Build a solid foundation in computer science and physics
 - Create models that acurately model physics phenomena 
